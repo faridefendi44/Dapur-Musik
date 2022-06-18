@@ -1,0 +1,108 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+body{
+	font-family: 'Poppins', sans-serif;
+	font-size: 18px;
+	background: black;
+}
+.form-control{
+	width: 350px;
+}
+.navbar-contain{
+	background: black;
+	border-bottom: 1px solid #3B4E5B;
+}
+.box{
+	background: #3B4E5B ;
+	color: white;
+	text-align: center;
+}
+.ket1{
+	margin-top: 30px;
+}
+.ket2{
+	color: white;
+	text-align: justify;
+	margin-top: 40px;
+
+}
+.tbl{
+	margin-top: 30px;
+}
+.tbl a{
+      color: #fff;
+      text-decoration: none;
+      width: 130px;
+      background: #60A55A;
+      font-size: 16px;
+      font-weight: bold;
+      text-align: center;
+      padding-top: 5px;
+      padding-bottom: 5px;
+      border-radius: 10px;
+      padding-right: 10px;
+      padding-left: 10px;
+    }
+.tbl a:hover{
+      background: #8AED81;
+    }
+.img{
+   	padding-top: 5px;
+    padding-bottom: 5px;
+    }
+.teks{
+	color: white;
+	text-align: center;
+	margin-top: 30px;
+}
+.row-container{
+	margin: 0px;
+}
+
+.mbuh:hover{
+	transform: scale(1.1);
+	transition: 0.3s;
+}
+
+.middle{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+.card{
+	cursor: pointer;
+	width: 340px;
+	height: 480px;
+}
+footer{
+	background: #3B4E5B;
+}
+.brand{
+	color: white;
+}
+.ket-footer{
+	font-size: 16px;
+}
+.capt{
+	margin-top: 9px;
+}
+.serv{
+	color: white;
+}
+a{
+	text-decoration: none;
+	color: white;
+}
+.gakruh{
+	font-size: 14px;
+	text-align: justify;
+}
+.gk{
+	text-align: center;
+}
+
+
+
